@@ -20,7 +20,6 @@ sudo apt install -y \
     sox \
     ffmpeg \
     espeak \
-    nano \
     calcurse \
     wget
 
