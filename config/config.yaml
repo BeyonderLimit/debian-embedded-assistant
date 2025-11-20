@@ -1,0 +1,12 @@
+# config/config.yaml
+vad_sensitivity: 0.02
+record_duration: 10
+tts_engine: piper  # Options: piper, espeak (fallback)
+piper_model: "en_US-lessac-medium"  # or "en_US-amy-low", "en_US-ryan-high"
+piper_model_path: "models/piper"
+weather_lat: 40.7128
+weather_lon: -74.0060
+default_volume: 50
+brightness_level: 80
+morning_time: "07:00"
+reminder_interval: 300
