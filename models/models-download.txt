@@ -1,0 +1,3 @@
+https://huggingface.co/rhasspy/piper-voices/tree/main
+
+Download your selected model
