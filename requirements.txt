@@ -1,0 +1,12 @@
+faster-whisper
+pyaudio
+psutil
+requests
+rich
+python-dotenv
+pytz
+pyyaml
+numpy
+piper-tts
+onnxruntime
+spacy
